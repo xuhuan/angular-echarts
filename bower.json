@@ -1,0 +1,23 @@
+{
+    "name": "angular-echarts",
+    "version": "0.0.1",
+    "authors": [
+        "xuhuan <xu.huan.web.master@gmail.com>"
+    ],
+    "description": "echarts for angular",
+    "main": "./angular-charts.js",
+    "keywords": [
+        "angular",
+        "angularjs",
+        "echarts"
+    ],
+    "license": "BSD",
+    "homepage": "https://github.com/xuhuan/angular-echarts",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}

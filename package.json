@@ -1,0 +1,27 @@
+{
+  "name": "angular-echarts",
+  "version": "0.0.1",
+  "description": "echarts for angular",
+  "main": "angular-echarts.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuhuan/angular-echarts.git"
+  },
+  "keywords": [
+    "angular",
+    "echarts",
+    "angularjs"
+  ],
+  "author": "xuhuan",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/xuhuan/angular-echarts/issues"
+  },
+  "homepage": "https://github.com/xuhuan/angular-echarts"
+}
